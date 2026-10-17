@@ -1,4 +1,4 @@
-# elis-elections-brazil-2026
+# elections-brazil-2026
 
 **PT** · Análise estatística pré-registrada das eleições gerais de 2026 no Brasil. **EN** · Pre-registered statistical analysis of Brazil's 2026 general elections.
 
