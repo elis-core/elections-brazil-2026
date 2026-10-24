@@ -32,7 +32,7 @@ A revisão abre quando os resultados forem publicados. Nessa data, achados, erro
 
 ### Licença
 
-O **código** está sob a licença **Apache-2.0** (arquivo `LICENSE`); os **textos, documentos e agregados** estão sob a licença **CC BY 4.0** (arquivo `LICENSE-docs`), com atribuição. Os arquivos brutos do TSE e a documentação de terceiros não fazem parte deste repositório.
+O **código** está sob a licença **Apache-2.0** (arquivo `LICENSE`); os **textos, documentos e agregados** estão sob a licença **CC BY-ND 4.0** (arquivo `LICENSE-docs`), com atribuição. Os arquivos brutos do TSE e a documentação de terceiros não fazem parte deste repositório.
 
 ---
 
@@ -62,4 +62,4 @@ The review opens when the results are published. On that date, findings, errors,
 
 ### Licence
 
-The **code** is under the **Apache-2.0** licence (`LICENSE` file); the **texts, documents and aggregates** are under the **CC BY 4.0** licence (`LICENSE-docs` file), with attribution. The TSE raw files and third-party documentation are not part of this repository.
+The **code** is under the **Apache-2.0** licence (`LICENSE` file); the **texts, documents and aggregates** are under the **CC BY-ND 4.0** licence (`LICENSE-docs` file), with attribution. The TSE raw files and third-party documentation are not part of this repository.
